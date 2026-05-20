@@ -80,18 +80,3 @@ This project helped me improve my understanding of:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to fork this repository and submit a pull request.
-
----
-
-## ⭐ Acknowledgement
-
-Inspired by modern Applicant Tracking Systems used in recruitment.
----
-
-## Author
-
-Uttkarsh Bhardwaj
