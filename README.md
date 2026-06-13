@@ -1,4 +1,4 @@
-# 📄 ATS Resume Screener
+📄 ATS Resume Screener
 
 An ATS (Applicant Tracking System) Resume Screener that analyzes a candidate’s resume and determines whether they are fit for a given job role.
 
